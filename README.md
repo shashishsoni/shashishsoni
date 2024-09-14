@@ -139,6 +139,6 @@
 
 ###
 
-<img align="left" height="167" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdlbDd4cjVwOXhjZmt4MHZjZWVpbnJmaGg0ODRxczh0eXQxdWtiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u6150qpaRVBok/giphy.gif"  />
+<img align="left" height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdlbDd4cjVwOXhjZmt4MHZjZWVpbnJmaGg0ODRxczh0eXQxdWtiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u6150qpaRVBok/giphy.gif"  />
 
 ###
