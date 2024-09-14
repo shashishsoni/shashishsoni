@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shashishsoni&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=4" height="226" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashishsoni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=darcula&hide_border=false" height="215" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashishsoni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=darcula&hide_border=false" height="210" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=shashishsoni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="205" alt="stats graph"  />
 </div>
 
