@@ -131,16 +131,14 @@
 
 ###
 
-<img align="left" height="189" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW82Y2oxNWxmdHg4cWV3c3pnbjFhcTc3cGFydGw2N3I2ZzJiM3dtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4fDyJqlYYMkvK/giphy.gif" style="margin-left: 8px;" />
-
-
-###
-
-
-<img align="left" height="228" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hqcWRlaDh0cWgyY3Bxbjc5Y2NidDUwZ3o1NWJnYThrYTRyMWhmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUpk5m3SD4rLm7JAY1/giphy.gif" style="margin-left: 20px;" />
+<img align="left" height="189" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW82Y2oxNWxmdHg4cWV3c3pnbjFhcTc3cGFydGw2N3I2ZzJiM3dtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4fDyJqlYYMkvK/giphy.gif"  />
 
 ###
 
-<img align="left" height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdlbDd4cjVwOXhjZmt4MHZjZWVpbnJmaGg0ODRxczh0eXQxdWtiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u6150qpaRVBok/giphy.gif" style="margin-left: 20px;" />
+<img align="left" height="245" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hqcWRlaDh0cWgyY3Bxbjc5Y2NidDUwZ3o1NWJnYThrYTRyMWhmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUpk5m3SD4rLm7JAY1/giphy.gif"  />
+
+###
+
+<img align="left" height="167" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdlbDd4cjVwOXhjZmt4MHZjZWVpbnJmaGg0ODRxczh0eXQxdWtiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u6150qpaRVBok/giphy.gif"  />
 
 ###
