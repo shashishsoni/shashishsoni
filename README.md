@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=23&duration=2400&pause=700&color=67E8F9&center=true&vCenter=true&width=1000&lines=Performance-first+Full+Stack+Developer;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;I+fix+bottlenecks%2C+ship+features%2C+and+keep+it+clean." alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=1000&lines=%24+whoami;shashish+soni+-+full+stack+engineer;%24+npx+ship-fast+--optimize+true" alt="typing intro" />
 </p>
 
 <p align="center">
@@ -19,48 +19,58 @@
   <img src="https://media.giphy.com/media/yqtpq8rqqXBh6/giphy.gif" width="240" alt="relatable coding gif" />
 </p>
 
-<div align="center">
-  <h3>Quick Snapshot</h3>
-  <p>
-    🚀 <b>Role:</b> Software Development Engineer at <code>ProptechBuzz</code><br />
-    🧠 <b>Experience:</b> 1+ years in production systems<br />
-    ⚡ <b>Focus:</b> <code>Next.js</code> <code>Node.js</code> <code>PostgreSQL</code> <code>TypeScript</code><br />
-    🔧 <b>Strength:</b> performance tuning, API optimization, reliability
-  </p>
-</div>
+```bash
+┌──(portfolio@terminal)-[quick-snapshot]
+└─$ profile --show
+Role       : Software Development Engineer @ ProptechBuzz
+Experience : 1+ years (production)
+Focus      : Next.js | Node.js | PostgreSQL | TypeScript
+Strength   : Performance tuning | API optimization | reliability
+```
 
 ---
 
-## About Me
-```text
+## `~/about-me`
+```bash
+┌──(shashish@github)-[about]
+└─$ cat profile.txt
 Full Stack Software Engineer with 1+ year of production experience.
 I build performant apps with TypeScript, React, Next.js, and Node.js.
-I enjoy solving bottlenecks, scaling APIs, and improving DX.
+I enjoy solving bottlenecks, scaling APIs, and improving developer experience.
 Current role: Software Development Engineer @ ProptechBuzz.
 Motto: Ship fast. Measure. Improve. Repeat.
 ```
 
-## Experience Highlights
-```text
-Cut a production N+1 bottleneck from 4-6s to around 800ms.
-Reduced worker cold starts from 15s to around 2s with Node.js + Docker cron workers.
-Optimized feed APIs from 8-12s to around 1s using indexing and parallel queries.
-Built CI/CD + quality checks with GitHub Actions, K6, Playwright, and Bruno.
-Improved frontend build performance by around 30% using Next.js optimizations.
+## `~/experience-highlights`
+```bash
+┌──(shashish@github)-[work]
+└─$ cat impact.log
+[OK] N+1 bottleneck: 4-6s  -> ~800ms
+[OK] Worker cold starts: 15s -> ~2s (Node.js + Docker cron workers)
+[OK] Feed APIs: 8-12s -> ~1s (indexing + parallel queries)
+[OK] CI/CD quality gates with GitHub Actions, K6, Playwright, Bruno
+[OK] Frontend build performance improved by ~30%
 ```
 
-## Education
-```text
+## `~/education`
+```bash
+┌──(shashish@github)-[education]
+└─$ cat academics.txt
 B.Tech CSE, Vellore Institute of Technology Bhopal (2021 - 2025)
 CGPA: 8.06/10
 ```
 
-## Skills
+## `~/skills`
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,threejs,nodejs,express,postgres,mongodb,prisma,docker,githubactions,linux,git" />
 </p>
 
-## Cat + Dev Zone
+## `~/cat-dev-zone`
+```bash
+┌──(shashish@github)-[fun]
+└─$ ls cats/*.gif
+cat-coding-1.gif  cat-coding-2.gif  cat-coding-3.gif  cat-coding-4.gif
+```
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1a-ae5e-6f2fcd5d2a1c.gif" width="24%" alt="cat coding one" />
   <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-1f3e-47eb-8eab-9f2d4f5b5d3f.gif" width="24%" alt="cat coding two" />
@@ -68,7 +78,7 @@ CGPA: 8.06/10
   <img src="https://user-images.githubusercontent.com/74038190/213911161-9e2bcfd1-9f34-4e1f-8e93-50bd79bbec4f.gif" width="24%" alt="cat coding four" />
 </p>
 
-## Fun + Relatable
+## `~/fun-relatable`
 - Debugging mood: "works on localhost, breaks in production."
 - I benchmark first, then optimize what matters.
 - National-level swimmer and state-level chess player.
@@ -76,7 +86,11 @@ CGPA: 8.06/10
 
 ---
 
-## GitHub Analytics
+## `~/github-analytics`
+```bash
+┌──(shashish@github)-[analytics]
+└─$ run metrics --live
+```
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashishsoni&theme=github_dark" alt="summary stats" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashishsoni&theme=github_dark&utcOffset=5.5" alt="productive time" />
@@ -89,7 +103,11 @@ CGPA: 8.06/10
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashishsoni&theme=github_dark" alt="repos per language" />
 </p>
 
-## Contribution Snake
+## `~/contribution-snake`
+```bash
+┌──(shashish@github)-[contributions]
+└─$ ./snake --theme dark
+```
 <p align="center">
   <img src="https://raw.githubusercontent.com/shashishsoni/shashishsoni/output/snake-dark.svg" alt="snake animation dark" />
 </p>
@@ -97,7 +115,7 @@ CGPA: 8.06/10
 ---
 
 <div align="center">
-  <h3>Quote I Follow</h3>
+  <h3>terminal.exit(0)</h3>
   <p><i>"The present is theirs; the future, for which I really worked, is mine."</i></p>
   <p><b>- Nikola Tesla</b></p>
   <i>If my code makes you smile, star a repo and say hi 👋</i>
