@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Shashish%20Soni&fontAlign=50&fontAlignY=36&color=0:020617,40:0f172a,75:1d4ed8,100:38bdf8&fontColor=ffffff&desc=Full%20Stack%20Engineer%20%7C%20TypeScript%20%7C%20Next.js%20%7C%20Node.js&descAlign=50&descAlignY=58&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%2C%20I%27m%20Shashish%20Soni%20%F0%9F%91%8B&fontAlign=50&fontAlignY=35&color=0:030712,35:0f172a,70:1d4ed8,100:22d3ee&fontColor=ffffff&desc=Full%20Stack%20Engineer%20%7C%20Building%20Fast%2C%20Scalable%20Web%20Apps&descAlign=50&descAlignY=58&animation=fadeIn" alt="header" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=700&color=7DD3FC&center=true&vCenter=true&width=900&lines=I+turn+laggy+apps+into+fast+apps.;Clean+architecture+%2B+real+world+performance.;Debugging+mode%3A+calm+music+%2B+serious+focus." alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=23&duration=2400&pause=700&color=67E8F9&center=true&vCenter=true&width=1000&lines=Performance-first+Full+Stack+Developer;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;I+fix+bottlenecks%2C+ship+features%2C+and+keep+it+clean." alt="typing intro" />
 </p>
 
 <p align="center">
@@ -13,42 +13,47 @@
   <a href="https://example.com/resume"><img src="https://img.shields.io/badge/Resume-View%20CV-16a34a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="52%">
-      <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1a-ae5e-6f2fcd5d2a1c.gif" width="100%" alt="cat coding animation" />
-    </td>
-    <td align="left" width="48%">
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="240" alt="cat coding gif" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240" alt="laptop cat gif" />
+  <img src="https://media.giphy.com/media/yqtpq8rqqXBh6/giphy.gif" width="240" alt="relatable coding gif" />
+</p>
 
-### Quick Snapshot
-- Software Development Engineer at `ProptechBuzz`
-- 1+ years production experience
-- Focus: `Next.js`, `Node.js`, `PostgreSQL`, `TypeScript`
-- Love: performance fixes, API design, system reliability
-
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>Quick Snapshot</h3>
+  <p>
+    🚀 <b>Role:</b> Software Development Engineer at <code>ProptechBuzz</code><br />
+    🧠 <b>Experience:</b> 1+ years in production systems<br />
+    ⚡ <b>Focus:</b> <code>Next.js</code> <code>Node.js</code> <code>PostgreSQL</code> <code>TypeScript</code><br />
+    🔧 <b>Strength:</b> performance tuning, API optimization, reliability
+  </p>
+</div>
 
 ---
 
 ## About Me
-- Full Stack Software Engineer with 1+ year of production experience.
-- I build performant apps with TypeScript, React, Next.js, and Node.js.
-- I enjoy solving bottlenecks, scaling APIs, and improving DX.
-- Current role: `Software Development Engineer @ ProptechBuzz`.
-- Motto: `Ship fast. Measure. Improve. Repeat.`
+```text
+Full Stack Software Engineer with 1+ year of production experience.
+I build performant apps with TypeScript, React, Next.js, and Node.js.
+I enjoy solving bottlenecks, scaling APIs, and improving DX.
+Current role: Software Development Engineer @ ProptechBuzz.
+Motto: Ship fast. Measure. Improve. Repeat.
+```
 
 ## Experience Highlights
-- Cut a production N+1 bottleneck from `4-6s` to around `800ms`.
-- Reduced worker cold starts from `15s` to around `2s` with Node.js + Docker cron workers.
-- Optimized feed APIs from `8-12s` to around `1s` using indexing and parallel queries.
-- Built CI/CD + quality checks with GitHub Actions, K6, Playwright, and Bruno.
-- Improved frontend build performance by around `30%` using Next.js optimizations.
+```text
+Cut a production N+1 bottleneck from 4-6s to around 800ms.
+Reduced worker cold starts from 15s to around 2s with Node.js + Docker cron workers.
+Optimized feed APIs from 8-12s to around 1s using indexing and parallel queries.
+Built CI/CD + quality checks with GitHub Actions, K6, Playwright, and Bruno.
+Improved frontend build performance by around 30% using Next.js optimizations.
+```
 
 ## Education
-- `B.Tech CSE`, Vellore Institute of Technology Bhopal (`2021 - 2025`)
-- CGPA: `8.06/10`
+```text
+B.Tech CSE, Vellore Institute of Technology Bhopal (2021 - 2025)
+CGPA: 8.06/10
+```
 
 ## Skills
 <p>
@@ -57,9 +62,9 @@
 
 ## Cat + Dev Zone
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-1f3e-47eb-8eab-9f2d4f5b5d3f.gif" width="31%" alt="dev gif one" />
-  <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b9-3948-4b58-9636-f668a15b0f83.gif" width="31%" alt="dev gif two" />
-  <img src="https://user-images.githubusercontent.com/74038190/213911161-9e2bcfd1-9f34-4e1f-8e93-50bd79bbec4f.gif" width="31%" alt="cat mood gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE0N2p6Y2V6dW4wdnU0ejVoMWJkNjNmYmY0a3h6dGlxOGM2cnNyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif" width="32%" alt="cat coding zone one" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ4MmdvMTNuOTN0Mmh3M2N5Y3JlaWhjOWVnM3NjaGh6NWxteW11NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lVsYDBC0UVQJCE/giphy.gif" width="32%" alt="cat coding zone two" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k2M2FvbmxhOTMxaDd0N2hrdG9jYWhmYWRxYjJ4d2hsdm43NjJlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5i7umUqAOYYEw/giphy.gif" width="32%" alt="cat coding zone three" />
 </p>
 
 ## Fun + Relatable
