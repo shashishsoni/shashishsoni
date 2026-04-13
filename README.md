@@ -19,45 +19,48 @@
   <img src="https://media.giphy.com/media/yqtpq8rqqXBh6/giphy.gif" width="31%" alt="relatable coding gif" />
 </p>
 
-```bash
-┌──(portfolio@terminal)-[quick-snapshot]
-└─$ profile --show
-Role       : Software Development Engineer @ ProptechBuzz
-Experience : 1+ years (production)
-Focus      : Next.js | Node.js | PostgreSQL | TypeScript
-Strength   : Performance tuning | API optimization | reliability
+```ts
+const quickSnapshot = {
+  role: "Software Development Engineer @ ProptechBuzz",
+  experience: "1+ years (production)",
+  focus: ["Next.js", "Node.js", "PostgreSQL", "TypeScript"],
+  strength: ["Performance tuning", "API optimization", "Reliability"],
+};
 ```
 
 ---
 
 ## `~/about-me`
-```bash
-┌──(shashish@github)-[about]
-└─$ cat profile.txt
-Full Stack Software Engineer with 1+ year of production experience.
-I build performant apps with TypeScript, React, Next.js, and Node.js.
-I enjoy solving bottlenecks, scaling APIs, and improving developer experience.
-Current role: Software Development Engineer @ ProptechBuzz.
-Motto: Ship fast. Measure. Improve. Repeat.
+```ts
+const aboutMe = {
+  title: "Full Stack Software Engineer",
+  productionExperience: "1+ year",
+  stack: ["TypeScript", "React", "Next.js", "Node.js"],
+  interests: ["Bottleneck fixing", "API scaling", "Developer experience"],
+  currentRole: "Software Development Engineer @ ProptechBuzz",
+  motto: "Ship fast. Measure. Improve. Repeat.",
+};
 ```
 
 ## `~/experience-highlights`
-```bash
-┌──(shashish@github)-[work]
-└─$ cat impact.log
-[OK] N+1 bottleneck: 4-6s  -> ~800ms
-[OK] Worker cold starts: 15s -> ~2s (Node.js + Docker cron workers)
-[OK] Feed APIs: 8-12s -> ~1s (indexing + parallel queries)
-[OK] CI/CD quality gates with GitHub Actions, K6, Playwright, Bruno
-[OK] Frontend build performance improved by ~30%
+```ts
+const experienceHighlights = [
+  { issue: "N+1 bottleneck", improvement: "4-6s -> ~800ms", status: "OK" },
+  { issue: "Worker cold starts", improvement: "15s -> ~2s", status: "OK" },
+  { issue: "Feed API latency", improvement: "8-12s -> ~1s", status: "OK" },
+  { issue: "CI/CD quality gates", improvement: "Actions + K6 + Playwright + Bruno", status: "OK" },
+  { issue: "Frontend build speed", improvement: "~30% improvement", status: "OK" },
+];
 ```
 
 ## `~/education`
-```bash
-┌──(shashish@github)-[education]
-└─$ cat academics.txt
-B.Tech CSE, Vellore Institute of Technology Bhopal (2021 - 2025)
-CGPA: 8.06/10
+```ts
+const education = {
+  degree: "B.Tech CSE",
+  institute: "Vellore Institute of Technology Bhopal",
+  duration: "2021 - 2025",
+  cgpa: "8.06/10",
+};
 ```
 
 ## `~/skills`
@@ -66,23 +69,30 @@ CGPA: 8.06/10
 </p>
 
 ## `~/cat-dev-zone`
-```bash
-┌──(shashish@github)-[fun]
-└─$ ls cats/*.gif
-cat-coding-1.gif  cat-coding-2.gif  cat-coding-3.gif  cat-coding-4.gif
+```ts
+const catDevZone = [
+  "cat-coding-1.gif",
+  "cat-coding-2.gif",
+  "cat-coding-3.gif",
+  "cat-coding-4.gif",
+];
 ```
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1a-ae5e-6f2fcd5d2a1c.gif" width="24%" alt="cat coding one" />
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-1f3e-47eb-8eab-9f2d4f5b5d3f.gif" width="24%" alt="cat coding two" />
-  <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b9-3948-4b58-9636-f668a15b0f83.gif" width="24%" alt="cat coding three" />
-  <img src="https://user-images.githubusercontent.com/74038190/213911161-9e2bcfd1-9f34-4e1f-8e93-50bd79bbec4f.gif" width="24%" alt="cat coding four" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="24%" alt="cat coding one" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24%" alt="cat coding two" />
+  <img src="https://media.giphy.com/media/yqtpq8rqqXBh6/giphy.gif" width="24%" alt="cat coding three" />
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="24%" alt="cat coding four" />
 </p>
 
 ## `~/fun-relatable`
-- Debugging mood: "works on localhost, breaks in production."
-- I benchmark first, then optimize what matters.
-- National-level swimmer and state-level chess player.
-- Performance bugs feel like boss levels, and I like boss levels.
+```ts
+const funRelatable = {
+  debuggingMood: "Works on localhost, breaks in production.",
+  workflow: "Benchmark first, optimize what matters.",
+  sports: ["National-level swimmer", "State-level chess player"],
+  mindset: "Performance bugs feel like boss levels.",
+};
+```
 
 ---
 
