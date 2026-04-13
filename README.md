@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%2C%20I%27m%20Shashish%20Soni%20%F0%9F%91%8B&fontAlign=50&fontAlignY=35&color=0:030712,35:0f172a,70:1d4ed8,100:22d3ee&fontColor=ffffff&desc=Full%20Stack%20Engineer%20%7C%20Building%20Fast%2C%20Scalable%20Web%20Apps&descAlign=50&descAlignY=58&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&text=Shashish%20Soni%20%20%3E%20_%20&fontSize=48&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20Terminal%20Mode%20Enabled&descAlign=50&descAlignY=70&color=0:001a00,50:003b00,100:00a800&fontColor=8aff80&animation=blink" alt="terminal green header" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=1000&lines=%24+whoami;shashish+soni+-+full+stack+engineer;%24+npx+ship-fast+--optimize+true" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2200&pause=650&color=39FF14&center=true&vCenter=true&width=1000&lines=%24+whoami;shashish+soni;full+stack+engineer+%7C+performance+optimizer;%24+sudo+ship+--fast+--clean" alt="green terminal typing" />
 </p>
 
 <p align="center">
-  <a href="mailto:shshshsoni2003@gmail.com"><img src="https://img.shields.io/badge/Email-shshshsoni2003%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/shashishsoni"><img src="https://img.shields.io/badge/GitHub-shashishsoni-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/shashishsoni"><img src="https://img.shields.io/badge/LinkedIn-shashishsoni-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://drive.google.com/file/d/13KVcQU_rBh6LDvzqlx600ZX4HW6dnMBW/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20CV-16a34a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+  <a href="mailto:shshshsoni2003@gmail.com"><img src="https://img.shields.io/badge/email-shshshsoni2003%40gmail.com-0b2e13?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=031b08&color=0b2e13" alt="Email" /></a>
+  <a href="https://github.com/shashishsoni"><img src="https://img.shields.io/badge/github-shashishsoni-0b2e13?style=for-the-badge&logo=github&logoColor=39ff14&labelColor=031b08&color=0b2e13" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/shashishsoni"><img src="https://img.shields.io/badge/linkedin-shashishsoni-0b2e13?style=for-the-badge&logo=linkedin&logoColor=39ff14&labelColor=031b08&color=0b2e13" alt="LinkedIn" /></a>
+  <a href="https://drive.google.com/file/d/13KVcQU_rBh6LDvzqlx600ZX4HW6dnMBW/view?usp=sharing"><img src="https://img.shields.io/badge/resume-view_cv-0b2e13?style=for-the-badge&logo=readthedocs&logoColor=39ff14&labelColor=031b08&color=0b2e13" alt="Resume" /></a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="240" alt="cat coding gif" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240" alt="laptop cat gif" />
-  <img src="https://media.giphy.com/media/yqtpq8rqqXBh6/giphy.gif" width="240" alt="relatable coding gif" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="31%" alt="cat coding gif" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="31%" alt="laptop cat gif" />
+  <img src="https://media.giphy.com/media/yqtpq8rqqXBh6/giphy.gif" width="31%" alt="relatable coding gif" />
 </p>
 
 ```bash
@@ -92,15 +92,15 @@ cat-coding-1.gif  cat-coding-2.gif  cat-coding-3.gif  cat-coding-4.gif
 └─$ run metrics --live
 ```
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashishsoni&theme=github_dark" alt="summary stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashishsoni&theme=github_dark&utcOffset=5.5" alt="productive time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashishsoni&theme=chartreuse_dark" alt="summary stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashishsoni&theme=chartreuse_dark&utcOffset=5.5" alt="productive time" />
 </p>
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shashishsoni&radius=10&theme=tokyo-night&area=true&hide_border=true" alt="activity graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shashishsoni&radius=10&theme=chartreuse-dark&area=true&hide_border=true" alt="activity graph" />
 </p>
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=shashishsoni&theme=github-dark-blue&hide_border=true" alt="streak stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashishsoni&theme=github_dark" alt="repos per language" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=shashishsoni&theme=chartreuse-dark&hide_border=true" alt="streak stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashishsoni&theme=chartreuse_dark" alt="repos per language" />
 </p>
 
 ## `~/contribution-snake`
