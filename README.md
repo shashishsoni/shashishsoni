@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Shashish%20Soni&fontAlign=50&fontAlignY=35&color=0:0f172a,50:1e293b,100:2563eb&fontColor=ffffff&desc=Full%20Stack%20Engineer%20%7C%20Performance%20Nerd&descAlign=50&descAlignY=55" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Shashish%20Soni&fontAlign=50&fontAlignY=36&color=0:020617,40:0f172a,75:1d4ed8,100:38bdf8&fontColor=ffffff&desc=Full%20Stack%20Engineer%20%7C%20TypeScript%20%7C%20Next.js%20%7C%20Node.js&descAlign=50&descAlignY=58&animation=twinkling" alt="header" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=700&color=60A5FA&center=true&vCenter=true&width=900&lines=I+optimize+slow+systems+into+fast+systems.;I+build+modern+web+apps+that+feel+smooth.;Yes%2C+I+debug+with+music+and+coffee." alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=700&color=7DD3FC&center=true&vCenter=true&width=900&lines=I+turn+laggy+apps+into+fast+apps.;Clean+architecture+%2B+real+world+performance.;Debugging+mode%3A+calm+music+%2B+serious+focus." alt="typing intro" />
 </p>
 
 <p align="center">
@@ -13,11 +13,22 @@
   <a href="https://example.com/resume"><img src="https://img.shields.io/badge/Resume-View%20CV-16a34a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1a-ae5e-6f2fcd5d2a1c.gif" width="260" alt="cat coding animation" />
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-1f3e-47eb-8eab-9f2d4f5b5d3f.gif" width="260" alt="terminal animation" />
-  <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b9-3948-4b58-9636-f668a15b0f83.gif" width="260" alt="modern dev animation" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="52%">
+      <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1a-ae5e-6f2fcd5d2a1c.gif" width="100%" alt="cat coding animation" />
+    </td>
+    <td align="left" width="48%">
+
+### Quick Snapshot
+- Software Development Engineer at `ProptechBuzz`
+- 1+ years production experience
+- Focus: `Next.js`, `Node.js`, `PostgreSQL`, `TypeScript`
+- Love: performance fixes, API design, system reliability
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,16 +55,18 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,threejs,nodejs,express,postgres,mongodb,prisma,docker,githubactions,linux,git" />
 </p>
 
-## Fun + Relatable
-- Debugging mood: "works on localhost, fails in prod" :)
-- I break, build, benchmark, and ship.
-- National-level swimmer. State-level chess player.
-- I treat performance issues like boss fights.
+## Cat + Dev Zone
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-1f3e-47eb-8eab-9f2d4f5b5d3f.gif" width="31%" alt="dev gif one" />
+  <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b9-3948-4b58-9636-f668a15b0f83.gif" width="31%" alt="dev gif two" />
+  <img src="https://user-images.githubusercontent.com/74038190/213911161-9e2bcfd1-9f34-4e1f-8e93-50bd79bbec4f.gif" width="31%" alt="cat mood gif" />
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911167-46c6d0f3-56d1-4d0f-9e26-4c26f2e97f8f.gif" width="320" alt="fun gif" />
-  <img src="https://user-images.githubusercontent.com/74038190/213911161-9e2bcfd1-9f34-4e1f-8e93-50bd79bbec4f.gif" width="320" alt="relatable gif" />
-</div>
+## Fun + Relatable
+- Debugging mood: "works on localhost, breaks in production."
+- I benchmark first, then optimize what matters.
+- National-level swimmer and state-level chess player.
+- Performance bugs feel like boss levels, and I like boss levels.
 
 ---
 
@@ -63,25 +76,22 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashishsoni&theme=github_dark&utcOffset=5.5" alt="productive time" />
 </p>
 <p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=shashishsoni&radius=12&theme=github-dark&area=true&hide_border=true" alt="activity graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shashishsoni&radius=10&theme=tokyo-night&area=true&hide_border=true" alt="activity graph" />
 </p>
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=shashishsoni&theme=github-dark-blue&hide_border=true" alt="streak stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashishsoni&layout=compact&theme=github_dark&hide_border=true" alt="top languages" />
-</p>
-
-## Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shashishsoni&theme=algolia&no-bg=true&no-frame=true&row=1&column=7" alt="github trophies" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashishsoni&theme=github_dark" alt="repos per language" />
 </p>
 
 ## Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shashishsoni/shashishsoni/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/shashishsoni/shashishsoni/output/snake-dark.svg" alt="snake animation dark" />
 </p>
 
 ---
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" />
+  <br />
   <i>If my code makes you smile, star a repo and say hi 👋</i>
 </div>
