@@ -10,7 +10,7 @@
   <a href="mailto:shshshsoni2003@gmail.com"><img src="https://img.shields.io/badge/Email-shshshsoni2003%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/shashishsoni"><img src="https://img.shields.io/badge/GitHub-shashishsoni-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/shashishsoni"><img src="https://img.shields.io/badge/LinkedIn-shashishsoni-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://example.com/resume"><img src="https://img.shields.io/badge/Resume-View%20CV-16a34a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/13KVcQU_rBh6LDvzqlx600ZX4HW6dnMBW/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20CV-16a34a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 </p>
 
 <p align="center">
@@ -62,9 +62,10 @@ CGPA: 8.06/10
 
 ## Cat + Dev Zone
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE0N2p6Y2V6dW4wdnU0ejVoMWJkNjNmYmY0a3h6dGlxOGM2cnNyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif" width="32%" alt="cat coding zone one" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ4MmdvMTNuOTN0Mmh3M2N5Y3JlaWhjOWVnM3NjaGh6NWxteW11NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lVsYDBC0UVQJCE/giphy.gif" width="32%" alt="cat coding zone two" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k2M2FvbmxhOTMxaDd0N2hrdG9jYWhmYWRxYjJ4d2hsdm43NjJlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5i7umUqAOYYEw/giphy.gif" width="32%" alt="cat coding zone three" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1a-ae5e-6f2fcd5d2a1c.gif" width="24%" alt="cat coding one" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-1f3e-47eb-8eab-9f2d4f5b5d3f.gif" width="24%" alt="cat coding two" />
+  <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b9-3948-4b58-9636-f668a15b0f83.gif" width="24%" alt="cat coding three" />
+  <img src="https://user-images.githubusercontent.com/74038190/213911161-9e2bcfd1-9f34-4e1f-8e93-50bd79bbec4f.gif" width="24%" alt="cat coding four" />
 </p>
 
 ## Fun + Relatable
@@ -96,7 +97,8 @@ CGPA: 8.06/10
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" />
-  <br />
+  <h3>Quote I Follow</h3>
+  <p><i>"The present is theirs; the future, for which I really worked, is mine."</i></p>
+  <p><b>- Nikola Tesla</b></p>
   <i>If my code makes you smile, star a repo and say hi 👋</i>
 </div>
