@@ -1,10 +1,12 @@
 <div align="center">
 
-<!-- ================= 🎮 SOLID DARK HERO HEADER (NO GRADIENTS) ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d061a&height=160&section=header&text=SHASHISH%20SONI&stroke=00f5d4&strokeWidth=2&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=FULL-STACK%20ENGINEER%20%20%E2%80%A2%20%20SDE%20%40%20PROPTECHBUZZ%20%20%E2%80%A2%20%20LATENCY%20SPEEDRUNNER&descAlignY=72&descSize=16" width="100%" alt="Shashish Soni Banner" />
+<!-- ================= 🎮 MODERN PIXELATED ANIMATED HERO HEADER ================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=42&duration=2600&pause=1800&color=00F5D4&background=0D061A&center=true&vCenter=true&width=1000&height=115&lines=SHASHISH+SONI;%5B+SHASHISH+SONI+%5D" width="100%" alt="Shashish Soni Pixel Header" />
 
-<!-- 🕹️ LIVE ARCADE PIXEL TICKER -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2200&pause=600&color=00F5D4&center=true&vCenter=true&width=960&height=36&lines=PLAYER+1+ONLINE+%E2%80%94+SDE+%40+PROPTECHBUZZ+(1%2B+YR+PROD);ULTIMATE+COMBO%3A+12s+API+LATENCY+SLASHED+TO+800ms;PERFORMANCE+BUGS+FEEL+LIKE+BOSS+LEVELS;NATIONAL+SWIMMER+%E2%80%A2+STATE+CHESS+PLAYER+%E2%80%A2+SHIP+FAST" width="100%" alt="Arcade Ticker" />
+<!-- 🕹️ PIXEL SUB-HEADER & LIVE ARCADE TICKER -->
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=20&duration=2200&pause=700&color=FFFFFF&background=0D061A&center=true&vCenter=true&width=1000&height=46&lines=FULL-STACK+SOFTWARE+ENGINEER++%E2%80%A2++SYSTEM+ARCHITECT;ULTIMATE+COMBO%3A+12s+API+LATENCY+SLASHED+TO+800ms;PERFORMANCE+BUGS+FEEL+LIKE+BOSS+LEVELS;NATIONAL+SWIMMER++%E2%80%A2++STATE+CHESS+PLAYER++%E2%80%A2++SHIP+FAST" width="100%" alt="Arcade Subheader Ticker" />
+
+<br/>
 
 <!-- 🌐 FLAT HUD CONTACT BAR -->
 <p align="center">
@@ -17,7 +19,7 @@
 <hr/>
 
 <!-- ================= 01 // PLAYER IDENTITY & CODING GIFS ================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=24&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&height=38&lines=01+%2F%2F+PLAYER+IDENTITY+%26+BATTLESTATION;LVL+99+ARCHITECT+%E2%80%A2+SDE+%40+PROPTECHBUZZ" width="100%" alt="Player Identity" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=24&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&height=38&lines=01+%2F%2F+PLAYER+IDENTITY+%26+BATTLESTATION;LVL+99+ARCHITECT+%E2%80%A2+FULL-STACK+ENGINEER" width="100%" alt="Player Identity" />
 
 <!-- CODING GIF #1 (CYBER CODER) & CODING GIF #2 (3-MONITOR BATTLESTATION) -->
 <p align="center">
@@ -27,7 +29,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CLASS-LVL_99_FULL--STACK_ARCHITECT-fee440?style=for-the-badge&labelColor=0d061a" height="32" />
-  <img src="https://img.shields.io/badge/GUILD-SDE_%40_PROPTECHBUZZ_(1%2B_YR_PROD)-ff0055?style=for-the-badge&labelColor=0d061a" height="32" />
+  <img src="https://img.shields.io/badge/EXP-1%2B_YR_PRODUCTION_ENGINEERING-ff0055?style=for-the-badge&labelColor=0d061a" height="32" />
   <img src="https://img.shields.io/badge/STATUS-IN_PRODUCTION_RAID-00f5d4?style=for-the-badge&labelColor=0d061a" height="32" />
 </p>
 
@@ -96,7 +98,7 @@
   <img src="https://img.shields.io/badge/RULE-BENCHMARK_FIRST%2C_OPTIMIZE_WHAT_MATTERS-00f5d4?style=for-the-badge&labelColor=0d061a" height="32" />
 </p>
 
-<!-- 2x2 GRID OF THE 4 CAT CODING GIFS (DIRECT I.GIPHY.COM CDN) -->
+<!-- 2x2 GRID OF THE 4 CAT CODING GIFS -->
 <p align="center">
   <img src="https://i.giphy.com/JIX9t2j0ZTN9S.gif" width="48%" alt="Cat GIF 1: Speed Typing Cat" />
   <img src="https://i.giphy.com/26tn33aiTi1jkl6H6.gif" width="48%" alt="Cat GIF 2: Hacker Laptop Cat" />
